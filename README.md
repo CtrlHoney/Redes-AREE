@@ -120,7 +120,7 @@ A topologia entre roteadores foi ,inicialmente,**gerada aleatoriamente**, garant
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seuusuario/redes-aree.git
+   git clone https://github.com/CtrlHoney/Redes-AREE.git
    cd redes-aree
    ```
 
